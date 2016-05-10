@@ -1,0 +1,10 @@
+{
+  "name": "optimizely-javascript",
+  "version": "0.0.1",
+  "private": true,
+  "author": "Tester <tester@test.com",
+  "description": "A node project to srcclr scans",
+  "dependencies": {
+    "jquery": "3.0.0-alpha1"
+  }
+}
